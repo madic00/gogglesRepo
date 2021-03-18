@@ -1,0 +1,45 @@
+banner se je na jednom mestu slider a na drugim mestima drugacije
+
+Cena
+Baza P za korpu
+
+status porudzbine
+
+porudzbine kao neautorizovan korisnik
+
+alert kad doda u card
+
+kada klikne na cart i ako nije ulogovan, odvedem ga na lo
+
+gin. ALi meni metod za login redirektuje na products, a ja hocu na card
+
+http_referer
+
+query_string is_from_cart=true ili da zapisem u sesiji
+
+http://127.0.0.1:8000/admin/products/21/edit - Trying to get property 'name' of non-object
+
+$names = ['abazam', 'aidan', 'alloy', 'altar', 'aron', 'chenon', 'daydream', 'ethan', 'film', 'finn', 'interception', 'lisbon', 'metaphor', 'morrison', 'pacific', 'prism', 'sebastian', 'stmichel', 'vinyl', 'why'];
+
+$descriptions = [
+    'These wire framed, Gold finished eyeglasses simply ooze retro style. Its classic round lensed look will never go out of vogue, and its lightweight frame also comes with spring hinges for extra comfort. Get hold of these frames for a vintage look that will last the ages.',
+    'This understated, timeless design is perfect for any occasion. The acetate frame is comfortable and durable while the glossy black finish keeps them sleek and stylish. The rectangular lens shape adds a subtle touch of class to this popular design.',
+    'Alloy’s eye-catching eyewire surrounds geometric lenses for an unexpected edge. Vintage-inspired, yet distinctly modern, this striking two-tone frame features a gold face front and black arms — and an aluminum alloy construction for an easy-to-wear look. Complete with contrasting tortoise temple tips, and adjustable nose pads for a secure and custom fit',
+    'Perfectly octagonal, and perfectly on trend — Altar makes looking good look so easy. This geometric frame features gold eyewire and vibrant yellow temple tips for a bright and sunny style. Minimal details make for a streamlined frame, and adjustable nose pads allow you to customize the fit for all day wearability.Perfectly octagonal, and perfectly on trend — Altar makes looking good look so easy. This geometric frame features gold eyewire and vibrant yellow temple tips for a bright and sunny style. Minimal details make for a streamlined frame, and adjustable nose pads allow you to customize the fit for all day wearability.',
+    'These Black eyeglasses effortlessly intertwine utility and fashion. This titanium semi-rimless frame has a glossy Black finish throughout and exaggerated rectangular lenses. The temples feature an etched White geometric design and end in arms featuring stylish silver accents.',
+    'Expressive without making a scene, these black and gold contemporary frames raise the bar on everyday style. Delicate eyewire, a punctuated browline, and standout arms inlaid with onyx details make Phantos a memorable must-have. Adjustable nose pads and matching rubber temple tips add extra comfort (and style) for all-day wearability.',
+    'Stand out from the crowd with Daydream. With a stylish full-rim frame and modern Yellow and Brown finish, these metal eyeglasses simply ooze sophistication. The delicate construction of this frame looks great and ensures that they are comfortable throughout the day.',
+    'You don’t have to be good at math to love these geometric frames. Ethan’s classic gold eyewire and slim arms stand out against the dark green details, featuring subtly painted rims with matching covered temple tips for a pop of color, and even more personality. Plus adjustable nose pads for a custom fit.',
+    'Streamline your look with Film, a minimally designed metal frame with a metallic silver finish. The oval lenses add to it’s classic charm, while the subtly embossed eyewire adds a little something extra to this simple style. Complete with tortoiseshell temple tips and adjustable nose pads for a secure and custom fit.',
+    'Looking for a classic frame with a little bit of flair? Finn brings the best of both worlds with always-on-trend square lenses, surrounded by boldly colored green acetate. You’ll be sure to make a statement wherever you go with these stand out specs, made with spring hinges for enhanced comfort and wearability.',
+    'Interception is a technical looking style with modern design elements. The semi-rimless face front shows off sleek rectangular lenses and a brown metal browline, while the acetate temples add intrigue as they fade from black to translucent blue. This style is complete with spring hinges for an extra comfortable fit.',
+    'Add some Iberian passion to your style with these trendy Lisbon eyeglasses. A bold design featuring broad, square, full-rim lenses will frame your face perfectly, Lisbon is made even more smolderingly stylish by its dark Tortoiseshell color, with its flecks of yellow and deep orange.',
+    'Square frames go with just about any style, but if you’re looking for something with an extra pop of color, opt for Metaphor in teal. This minimal frame boasts a bold face front with a deep jewel tone, with multi-dimensional details for a sculptural look. Complete with slim metal arms in with a silver finish.',
+    'Make room for Morrison, a slim aviator frame with big style. Featuring geometric eyewire with subtle angles, and a flat double brow for a decidedly retro vibe. The lustrous gold metal adds even more of a classic touch, while the tortoiseshell temple tips complete the look. With adjustable nose pads for a custom fit.',
+    'Dive right into this dark and mysterious frame, featuring stripes of blue throughout. The flecks of color are reminiscent of sun rays shining through ocean waves — a cool and eye catching element of this striking style. Pacific is a look made to last, complete with timeless rectangular lenses and double stud accents.',
+    'Refract your style with these prismatic charred tortoise eyeglasses. This contemporary frame is skillfully hand created from premium Italian acetate in a sumptuously sandy and earth toned tortoiseshell with high-end Italian hinges. A keyhole nose bridge and double stud accents add a classic touch to this seamlessly urban and streamlined design.',
+    "Say hello to Sebastian, a masculine style of frame cloaked in Tortoiseshell acetate. This classic style's unique gold temple arms are a testament to European men's fashion.",
+    'These full-rim metal frames are currently hot fashion for women and men. The on-trend frame-shape of St. Michael S brings extra elegance with the tasteful Rose Gold finish. The lightweight materials give you extra comfort with adjustable nose pads, for an easy-to-wear comfortable fit.',
+    'Show off your unique style with Vinyl, a mixed material frame with a straightforward look. Featuring a full-rim face front constructed of translucent acetate, with textured metal arms in rose gold. These modern specs will make sure you’re looking your best, no matter what you decide to pair them with.',
+    'Upgrade your usual eyewear with Why, an angular pair of specs with classic rectangular lenses and a flat browline. Made from plastic with a technical aesthetic, this modern frame features a smoky gray hue and bright green temple details — perfect for adding an athletic look to your everyday wear.'
+];
